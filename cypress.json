@@ -1,0 +1,13 @@
+
+{
+    "watchForFileChanges":true,
+    "baseUrl": "http://automationpractice.com/",
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout":15000,
+    "pageLoadTimeout": 15000,
+    "requestTimeout":15000
+    
+
+
+    
+}
